@@ -11,3 +11,8 @@ A sleek and modern responsive pricing cards section built using HTML and CSS.   
 - Hover Effects
 - Fully Responsive Layout
 - Beginner Friendly Project
+
+## 🚀 Technologies Used
+- HTML5
+- CSS3
+- Font Awesome Icons
