@@ -23,3 +23,7 @@ A sleek and modern responsive pricing cards section built using HTML and CSS.   
 - Enterprise Plan
 - Highlighted "Most Popular" badge
 - Clean card spacing and shadows
+
+## 📂 Folder Structure
+├── index.html
+├── style.css
