@@ -16,3 +16,10 @@ A sleek and modern responsive pricing cards section built using HTML and CSS.   
 - HTML5
 - CSS3
 - Font Awesome Icons
+
+## The project includes:
+- Basic Plan
+- Pro Plan
+- Enterprise Plan
+- Highlighted "Most Popular" badge
+- Clean card spacing and shadows
