@@ -28,10 +28,16 @@ A sleek and modern responsive pricing cards section built using HTML and CSS.   
 ├── index.html
 ├── style.css
 
-🎯 Learning Goals
+## 🎯 Learning Goals
 This project helps beginners practice:
 Flexbox Layout
 Card Design
 Responsive Web Design
 UI Styling
 CSS Effects
+
+## 📌 Future Improvements
+Add monthly/yearly toggle
+Add animations
+Add React version
+Connect with payment gateway
