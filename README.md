@@ -2,3 +2,12 @@
 A sleek and modern responsive pricing cards section built using HTML and CSS.   This project features a dark-themed interface with glowing green highlights, smooth layout design, and professional pricing plans.
 
 ## Live Demo - 
+
+## ✨ Features
+- Responsive Pricing Cards
+- Dark Modern UI
+- Neon Green Accent Theme
+- Clean Typography
+- Hover Effects
+- Fully Responsive Layout
+- Beginner Friendly Project
