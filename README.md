@@ -27,3 +27,11 @@ A sleek and modern responsive pricing cards section built using HTML and CSS.   
 ## 📂 Folder Structure
 ├── index.html
 ├── style.css
+
+🎯 Learning Goals
+This project helps beginners practice:
+Flexbox Layout
+Card Design
+Responsive Web Design
+UI Styling
+CSS Effects
